@@ -1,0 +1,14 @@
+{
+  "name": "kyuyo2sf",
+  "private": true,
+  "version": "1.0.0",
+  "description": "給与応援の汎用データ出力をsfへ投入",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {
+    "command-line-args": "^5.1.1",
+    "csvtojson": "^2.0.10",
+    "jsforce": "^2.0.0-alpha.12",
+    "sfdx-node": "^2.1.1"
+  }
+}
